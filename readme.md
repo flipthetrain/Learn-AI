@@ -50,14 +50,37 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
 
 ## Recommended Reading Order
 
-1. Foundational concepts: Bengio (2003), Mikolov (2013)
-2. Transformer and variants: Vaswani (2017), Transformer-XL (2019), BERT (2018)
-3. Scaling and GPT series: GPT (2018), GPT-2 (2019), GPT-3 (2020)
-4. Instruction tuning & alignment: RLHF (2022)
-5. Efficiency & fine-tuning: LoRA (2021), FlashAttention (2022), ELECTRA (2020)
-6. Reasoning techniques: Chain-of-Thought (2022)
-7. Surveys & history: Schmidhuber (2022), LLM surveys (2023+)
-8. Safety & interpretability: Anthropic research papers
+1. Foundational concepts:
+   - [A Neural Probabilistic Language Model (2003) by Bengio et al.](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+   - [Efficient Estimation of Word Representations in Vector Space (2013) by Mikolov et al.](https://arxiv.org/abs/1301.3781)
+2. Transformer and variants:
+   - [Attention Is All You Need (2017) by Vaswani et al.](https://arxiv.org/abs/1706.03762)
+   - [Transformer-XL (2019) by Dai et al.](https://arxiv.org/abs/1901.02860)
+   - [BERT: Pre-training of Deep Bidirectional Transformers (2018) by Devlin et al.](https://arxiv.org/abs/1810.04805)
+3. Scaling and GPT series:
+   - [Improving Language Understanding by Generative Pre-Training (2018) by Radford et al.](https://openai.com/research/language-unsupervised)
+   - [Language Models are Unsupervised Multitask Learners (GPT-2, 2019)](https://openai.com/research/better-language-models)
+   - [Language Models are Few-Shot Learners (GPT-3, 2020) by Brown et al.](https://arxiv.org/abs/2005.14165)
+4. Instruction tuning & alignment:
+   - [Training language models to follow instructions with human feedback (2022)](https://arxiv.org/abs/2203.02155)
+5. Efficiency & fine-tuning:
+   - [LoRA: Low-Rank Adaptation of Large Language Models (2021)](https://arxiv.org/abs/2106.09685)
+   - [FlashAttention (2022) by Dao et al.](https://arxiv.org/abs/2205.14135)
+   - [ELECTRA (2020) by Clark et al.](https://arxiv.org/abs/2003.10555)
+6. Reasoning techniques:
+   - [Chain-of-Thought Prompting (2022) by Wei et al.](https://arxiv.org/abs/2201.11903)
+7. Surveys & history:
+   - [Annotated History of Modern AI and Deep Learning (2022) by Schmidhuber](https://arxiv.org/abs/2212.11279)
+   - [A Survey of Large Language Models (2023)](https://arxiv.org/abs/2303.18223)
+   - [A Comprehensive Overview of Large Language Models (2023)](https://arxiv.org/abs/2307.06435)
+   - [Evaluating Large Language Models: A Comprehensive Survey (2023)](https://arxiv.org/abs/2310.19736)
+   - [Efficient Large Language Models: A Survey (2023)](https://arxiv.org/abs/2312.03863)
+   - [Formal Aspects of Language Modeling (2023)](https://arxiv.org/abs/2311.04329)
+8. Safety & interpretability:
+   - [Constitutional AI: Harmlessness from AI Feedback](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback)
+   - [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input)
+   - [Discovering Language Model Behaviors with Model-Written Evaluations](https://www.anthropic.com/research/discovering-language-model-behaviors-with-model-written-evaluations)
+   - [Claude 3 Model Family (2024)](https://www.anthropic.com/news/claude-3-family)
 
 ---
 
