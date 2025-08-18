@@ -26,7 +26,7 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
 * **[Training language models to follow instructions with human feedback (2022)](./KeyPapers/Training_language_models_to_follow_instructions_with_human_feedback_2022.pdf)** ([External](https://arxiv.org/abs/2203.02155)) — RLHF for alignment and helpfulness.
 * **[LoRA: Low-Rank Adaptation of Large Language Models (2021)](./KeyPapers/LoRA_Low-Rank_Adaptation_of_Large_Language_Models_2021.pdf)** ([External](https://arxiv.org/abs/2106.09685)) — Parameter-efficient fine-tuning.
 * **[FlashAttention (2022) by Dao et al.](./KeyPapers/FlashAttention_Fast_and_Memory-Efficient_Exact_Attention_2022.pdf)** ([External](https://arxiv.org/abs/2205.14135)) — Fast, memory-efficient attention implementation.
-* **[Chain-of-Thought Prompting (2022) by Wei et al.](./KeyPapers/Chain-of-Thought_Prompting_Elicits_Reasoning_in_Large_Language_Models_2022.pdf)** ([External](https://arxiv.org/abs/2201.11903)) — Improves reasoning via stepwise prompting.
+* **[Chain-of-Thought Prompting (2022) by Wei et al.](./KeyPapers/Chain-of-Thought_Prompting_Elicits_Reasoningin_Large_Language_Models_2022.pdf)** ([External](https://arxiv.org/abs/2201.11903)) — Improves reasoning via stepwise prompting.
 
 ## Anthropic Papers on Language Models
 
@@ -63,13 +63,6 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
 
 # Part 2: AI Videos
 
-### Python Fundamentals
-
-* **[Python Full Course for Beginners [2025] — FreeCodeCamp](https://www.youtube.com/watch?v=K5KVEU3aaeQ)**
-* **[Python for Beginners — FreeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc)**
-* **[Python NumPy Tutorial — freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)**
-* **[PyTorch for Deep Learning — freeCodeCamp](https://www.youtube.com/watch?v=V_xro1bcAuA)**
-
 ### Deep Learning Foundations
 
 * **[Neural Networks from Scratch — Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)**
@@ -99,25 +92,56 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
 * **[LangChain Series: Building Production Apps — James Briggs](https://www.youtube.com/watch?v=MlK6SIjcjE8)**
 * **[LangChain Agents Tutorial — Tech With Tim](https://www.youtube.com/watch?v=jz-lMRJXbNw)**
 
-### AI Safety and Ethics
+## Recommended AI Video Viewing Order
+
+1. **Programming Prerequisites**:
+   - [Python Full Course for Beginners [2025] — FreeCodeCamp](https://www.youtube.com/watch?v=K5KVEU3aaeQ)
+   - [Python for Beginners — FreeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+   - [Python NumPy Tutorial — freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+   - [PyTorch for Deep Learning — freeCodeCamp](https://www.youtube.com/watch?v=V_xro1bcAuA)
+2. **Deep Learning Prerequisites**:
+   - [Neural Networks from Scratch — Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
+   - [Deep Learning Fundamentals — DeepLearning.AI](https://www.youtube.com/watch?v=pyqt7s2bpqM)
+   - [Attention and Transformer Networks — Stanford CS224N](https://www.youtube.com/watch?v=ptuGllU5SQQ)
+3. **Core LLM Concepts**:
+   - [How Transformers Work — Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+   - [The Transformer Architecture — Stanford CS224N](https://www.youtube.com/watch?v=S27pHKBEp30)
+   - [Stanford CS229: Building Large Language Models — Stanford Online](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+4. **Practical Implementation**:
+   - [Developing Large Language Models in Python — NeuralNine](https://www.youtube.com/watch?v=s5nq-a1wpPY)
+   - [Create a Large Language Model from Scratch — FreeCodeCamp](https://www.youtube.com/watch?v=UU1WVnMk4E8)
+5. **Advanced Topics**:
+   - [Fine-tuning LLMs w/ Example Code — Shawhin Talebi](https://www.youtube.com/watch?v=eC6Hd1hFvos)
+   - [RLHF: Training Language Models with Human Feedback — Hugging Face](https://www.youtube.com/watch?v=2MBJOuVq380)
+   - [Advanced LLM Training Techniques — DeepLearning.AI](https://www.youtube.com/watch?v=yRB_b-S6ZtI)
+   - [Efficient Fine-tuning of Language Models — Microsoft Research](https://www.youtube.com/watch?v=9ZqE0HhXaVU)
+6. **LangChain Development**:
+   - [LangChain Crash Course — Patrick Loeber](https://www.youtube.com/watch?v=nE2skSRWTTs)
+   - [LangChain for LLM Application Development — DeepLearning.AI](https://www.youtube.com/watch?v=_v_fgW2SkkQ)
+   - [Build LLM Apps with LangChain — FreeCodeCamp](https://www.youtube.com/watch?v=lG7Uxts9SXs)
+   - [LangChain Series: Building Production Apps — James Briggs](https://www.youtube.com/watch?v=MlK6SIjcjE8)
+   - [LangChain Agents Tutorial — Tech With Tim](https://www.youtube.com/watch?v=jz-lMRJXbNw)
+
+---
+
+# Part 3: AI Ethics
 
 * **[AI Alignment and Safety — Anthropic](https://www.youtube.com/watch?v=FX0zYxm4yes)**
 * **[Ethics in AI Development — DeepMind](https://www.youtube.com/watch?v=z7tRnlqybnU)**
 * **[Responsible AI Development — Stanford HAI](https://www.youtube.com/watch?v=xI_xM9K8q4k)**
 
-## Recommended AI Video Viewing Order
+## Recommended AI Ethics Viewing Order
 
-1. **Programming Prerequisites**:
-   - Python Full Course for Beginners [2025] — FreeCodeCamp
-   - Python for Beginners — FreeCodeCamp
-   - Python NumPy Tutorial — freeCodeCamp
-   - PyTorch for Deep Learning — freeCodeCamp
+1. [AI Alignment and Safety — Anthropic](https://www.youtube.com/watch?v=FX0zYxm4yes)
+2. [Ethics in AI Development — DeepMind](https://www.youtube.com/watch?v=z7tRnlqybnU)
+3. [Responsible AI Development — Stanford HAI](https://www.youtube.com/watch?v=xI_xM9K8q4k)
 
 ---
 
-# Part 3: Essential Mathematics
+# Part 4: Essential Mathematics
 
 ### Mathematical Foundations
+
 * **[Linear Algebra Fundamentals — 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)**
 * **[Calculus Essentials — 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)**
 * **[Statistics and Probability — Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)**
@@ -126,6 +150,7 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
 * **[Information Theory Basics — Stanford](https://www.youtube.com/watch?v=5c9zopx6Tqk)**
 
 ### Mathematical Applications in AI
+
 * **[Mathematics of Neural Networks — StatQuest](https://www.youtube.com/watch?v=CqOfi41LfDw)**
 * **[Backpropagation Mathematics — 3Blue1Brown](https://www.youtube.com/watch?v=Ilg3gGewQ5U)**
 * **[Mathematical Foundations of Machine Learning — MIT OpenCourseWare](https://www.youtube.com/watch?v=3eNzJGd9HgU)**
@@ -139,72 +164,53 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
    - [Calculus Essentials — 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
    - [Statistics and Probability — Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
    - [Matrix Operations for Machine Learning — StatQuest](https://www.youtube.com/watch?v=NKGqFBLC4eI)
-
 2. **Advanced Mathematics**:
    - [Optimization Mathematics — Stanford](https://www.youtube.com/watch?v=Q4L_zxDrcPU)
    - [Information Theory Basics — Stanford](https://www.youtube.com/watch?v=5c9zopx6Tqk)
-
 3. **AI-Specific Mathematics**:
    - [Mathematics of Neural Networks — StatQuest](https://www.youtube.com/watch?v=CqOfi41LfDw)
    - [Backpropagation Mathematics — 3Blue1Brown](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
    - [Mathematical Foundations of Machine Learning — MIT OpenCourseWare](https://www.youtube.com/watch?v=3eNzJGd9HgU)
    - [Probability in Machine Learning — StatQuest](https://www.youtube.com/watch?v=PrkiRVcrxOs)
    - [Information Theory in Machine Learning — Stanford](https://www.youtube.com/watch?v=9lyoqwT6DGY)
-
-   *Core Mathematics*:
-
-   - [Linear Algebra Fundamentals — 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-   - [Calculus Essentials — 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-   - [Statistics and Probability — Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
-   - [Matrix Operations for Machine Learning — StatQuest](https://www.youtube.com/watch?v=NKGqFBLC4eI)
-
-   *Advanced Mathematics*:
-
-   - [Optimization Mathematics — Stanford](https://www.youtube.com/watch?v=Q4L_zxDrcPU)
-   - [Information Theory Basics — Stanford](https://www.youtube.com/watch?v=5c9zopx6Tqk)
-
-   *AI-Specific Mathematics*:
-
-   - [Mathematics of Neural Networks — StatQuest](https://www.youtube.com/watch?v=CqOfi41LfDw)
-   - [Backpropagation Mathematics — 3Blue1Brown](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
-   - [Mathematical Foundations of Machine Learning — MIT OpenCourseWare](https://www.youtube.com/watch?v=3eNzJGd9HgU)
-   - [Probability in Machine Learning — StatQuest](https://www.youtube.com/watch?v=PrkiRVcrxOs)
-   - [Information Theory in Machine Learning — Stanford](https://www.youtube.com/watch?v=9lyoqwT6DGY)
-2. **Python Fundamentals** (if needed):
-
-   - [Python Full Course for Beginners [2025] — FreeCodeCamp](https://www.youtube.com/watch?v=K5KVEU3aaeQ)
-   - [Python for Beginners — FreeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc)
-   - [Python NumPy Tutorial — freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)
-   - [PyTorch for Deep Learning — freeCodeCamp](https://www.youtube.com/watch?v=V_xro1bcAuA)
-3. **Deep Learning Prerequisites**:
-
+4. **Deep Learning Prerequisites**:
    - [Neural Networks from Scratch — Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
    - [Deep Learning Fundamentals — DeepLearning.AI](https://www.youtube.com/watch?v=pyqt7s2bpqM)
    - [Attention and Transformer Networks — Stanford CS224N](https://www.youtube.com/watch?v=ptuGllU5SQQ)
-4. **Core LLM Concepts**:
-
+5. **Core LLM Concepts**:
    - [How Transformers Work — Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
    - [The Transformer Architecture — Stanford CS224N](https://www.youtube.com/watch?v=S27pHKBEp30)
    - [Stanford CS229: Building Large Language Models — Stanford Online](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
-5. **Practical Implementation**:
-
+6. **Practical Implementation**:
    - [Developing Large Language Models in Python — NeuralNine](https://www.youtube.com/watch?v=s5nq-a1wpPY)
    - [Create a Large Language Model from Scratch — FreeCodeCamp](https://www.youtube.com/watch?v=UU1WVnMk4E8)
-6. **Advanced Topics**:
-
+7. **Advanced Topics**:
    - [Fine-tuning LLMs w/ Example Code — Shawhin Talebi](https://www.youtube.com/watch?v=eC6Hd1hFvos)
    - [RLHF: Training Language Models with Human Feedback — Hugging Face](https://www.youtube.com/watch?v=2MBJOuVq380)
    - [Advanced LLM Training Techniques — DeepLearning.AI](https://www.youtube.com/watch?v=yRB_b-S6ZtI)
    - [Efficient Fine-tuning of Language Models — Microsoft Research](https://www.youtube.com/watch?v=9ZqE0HhXaVU)
-7. **LangChain Development**:
-
+8. **LangChain Development**:
    - [LangChain Crash Course — Patrick Loeber](https://www.youtube.com/watch?v=nE2skSRWTTs)
    - [LangChain for LLM Application Development — DeepLearning.AI](https://www.youtube.com/watch?v=_v_fgW2SkkQ)
    - [Build LLM Apps with LangChain — FreeCodeCamp](https://www.youtube.com/watch?v=lG7Uxts9SXs)
    - [LangChain Series: Building Production Apps — James Briggs](https://www.youtube.com/watch?v=MlK6SIjcjE8)
    - [LangChain Agents Tutorial — Tech With Tim](https://www.youtube.com/watch?v=jz-lMRJXbNw)
-8. **AI Safety and Ethics**:
 
-   - [AI Alignment and Safety — Anthropic](https://www.youtube.com/watch?v=FX0zYxm4yes)
-   - [Ethics in AI Development — DeepMind](https://www.youtube.com/watch?v=z7tRnlqybnU)
-   - [Responsible AI Development — Stanford HAI](https://www.youtube.com/watch?v=xI_xM9K8q4k)
+---
+
+# Part 5: Essential Python
+
+## Python Fundamentals
+
+* **[Python Full Course for Beginners [2025] — FreeCodeCamp](https://www.youtube.com/watch?v=K5KVEU3aaeQ)**
+* **[Python for Beginners — FreeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc)**
+* **[Python NumPy Tutorial — freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)**
+* **[PyTorch for Deep Learning — freeCodeCamp](https://www.youtube.com/watch?v=V_xro1bcAuA)**
+
+## Recommended Python Viewing Order
+
+1. **Python Fundamentals**:
+   - [Python Full Course for Beginners [2025] — FreeCodeCamp](https://www.youtube.com/watch?v=K5KVEU3aaeQ)
+   - [Python for Beginners — FreeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+   - [Python NumPy Tutorial — freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+   - [PyTorch for Deep Learning — freeCodeCamp](https://www.youtube.com/watch?v=V_xro1bcAuA)
