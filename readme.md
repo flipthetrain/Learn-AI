@@ -126,10 +126,6 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
 
 # Part 3: AI Ethics
 
-* **[AI Alignment and Safety — Anthropic](https://www.youtube.com/watch?v=FX0zYxm4yes)**
-* **[Ethics in AI Development — DeepMind](https://www.youtube.com/watch?v=z7tRnlqybnU)**
-* **[Responsible AI Development — Stanford HAI](https://www.youtube.com/watch?v=xI_xM9K8q4k)**
-
 ## Recommended AI Ethics Viewing Order
 
 1. [AI Alignment and Safety — Anthropic](https://www.youtube.com/watch?v=FX0zYxm4yes)
@@ -139,23 +135,6 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
 ---
 
 # Part 4: Essential Mathematics
-
-### Mathematical Foundations
-
-* **[Linear Algebra Fundamentals — 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)**
-* **[Calculus Essentials — 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)**
-* **[Statistics and Probability — Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)**
-* **[Matrix Operations for Machine Learning — StatQuest](https://www.youtube.com/watch?v=NKGqFBLC4eI)**
-* **[Optimization Mathematics — Stanford](https://www.youtube.com/watch?v=Q4L_zxDrcPU)**
-* **[Information Theory Basics — Stanford](https://www.youtube.com/watch?v=5c9zopx6Tqk)**
-
-### Mathematical Applications in AI
-
-* **[Mathematics of Neural Networks — StatQuest](https://www.youtube.com/watch?v=CqOfi41LfDw)**
-* **[Backpropagation Mathematics — 3Blue1Brown](https://www.youtube.com/watch?v=Ilg3gGewQ5U)**
-* **[Mathematical Foundations of Machine Learning — MIT OpenCourseWare](https://www.youtube.com/watch?v=3eNzJGd9HgU)**
-* **[Probability in Machine Learning — StatQuest](https://www.youtube.com/watch?v=PrkiRVcrxOs)**
-* **[Information Theory in Machine Learning — Stanford](https://www.youtube.com/watch?v=9lyoqwT6DGY)**
 
 ## Recommended Mathematics Viewing Order
 
@@ -200,13 +179,6 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
 
 # Part 5: Essential Python
 
-## Python Fundamentals
-
-* **[Python Full Course for Beginners [2025] — FreeCodeCamp](https://www.youtube.com/watch?v=K5KVEU3aaeQ)**
-* **[Python for Beginners — FreeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc)**
-* **[Python NumPy Tutorial — freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)**
-* **[PyTorch for Deep Learning — freeCodeCamp](https://www.youtube.com/watch?v=V_xro1bcAuA)**
-
 ## Recommended Python Viewing Order
 
 1. **Python Fundamentals**:
@@ -214,3 +186,49 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
    - [Python for Beginners — FreeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc)
    - [Python NumPy Tutorial — freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)
    - [PyTorch for Deep Learning — freeCodeCamp](https://www.youtube.com/watch?v=V_xro1bcAuA)
+
+---
+
+# Part 6: AI Tools & Frameworks
+
+* **[Hugging Face Transformers Course](https://www.youtube.com/watch?v=9HFw1VxiK1g)**
+* **[TensorFlow 2.0 Complete Course — freeCodeCamp](https://www.youtube.com/watch?v=tPYj3fFJGjk)**
+* **[Scikit-learn Machine Learning Crash Course](https://www.youtube.com/watch?v=0Lt9w-BxKFQ)**
+
+---
+
+# Part 7: Real-World AI Applications
+
+* **[How AI is Used in Healthcare](https://www.youtube.com/watch?v=7D1CQ_LOizA)**
+* **[Building a Chatbot with Transformers](https://www.youtube.com/watch?v=8Mpc9ukltVA)**
+
+---
+
+# Part 8: Capstone Projects & Challenges
+
+* **[Kaggle Titanic Competition Walkthrough](https://www.youtube.com/watch?v=8A7TgG7E2XI)**
+* **[How to Win a Kaggle Competition](https://www.youtube.com/watch?v=BH9FywlwKHo)**
+* **[Awesome Open Datasets for Machine Learning](https://github.com/awesomedata/awesome-public-datasets)**
+
+---
+
+# Glossary
+
+A section for key AI/ML terms. (To be expanded)
+
+---
+
+# Further Reading & News
+
+* **[arXiv Sanity Preserver](http://www.arxiv-sanity.com/)**
+* **[The Batch by Andrew Ng](https://www.deeplearning.ai/thebatch/)**
+* **[AI for Everyone — Andrew Ng](https://www.youtube.com/watch?v=NKpuX_yzdYs)**
+
+---
+
+# Additional Papers
+
+* **[DistilBERT, a distilled version of BERT](https://arxiv.org/abs/1910.01108)**
+* **[PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)**
+* **[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)**
+* **[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)**
