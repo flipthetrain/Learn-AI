@@ -1,16 +1,34 @@
 # AI Curriculum
 
-This document provides a curated list of resources in the fields of Artificial Intelligence (AI) and Large Language Models (LLMs), organized into three main sections: AI Papers, AI Videos, and Essential Mathematics.
+This document provides a curated list of resources in the fields of Artificial Intelligence (AI) and Large Language Models (LLMs), organized into the following main sections:
+
+- [Part 1: AI Papers](#part-1-ai-papers)
+- [Part 2: AI Videos](#part-2-ai-videos)
+- [Part 3: AI Ethics](#part-3-ai-ethics)
+- [Part 4: Essential Mathematics](#part-4-essential-mathematics)
+- [Part 5: Essential Python](#part-5-essential-python)
+- [Part 6: AI Tools & Frameworks](#part-6-ai-tools--frameworks)
+- [Part 7: Real-World AI Applications](#part-7-real-world-ai-applications)
+- [Part 8: Capstone Projects & Challenges](#part-8-capstone-projects--challenges)
 
 # Part 1: AI Papers
+
 
 ## Reading Guide
 
 Before diving into the papers, check the "Recommended Reading Order" section at the end of the Papers section for a structured learning path.
 
+### Sections
+
+- [Foundational Papers](#foundational-papers)
+- [Key Methods & Optimizations](#key-methods--optimizations)
+- [Anthropic Papers on Language Models](#anthropic-papers-on-language-models)
+- [Surveys and Overviews](#surveys-and-overviews)
+- [Recommended Reading Order](#recommended-reading-order)
+
 ## Foundational Papers
 
-* **[A Neural Probabilistic Language Model (2003) by Bengio et al.](./KeyPapers/A_Neural_Probabilistic_Language_Model_2003.pdf)** ([External](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)) — Introduced distributed word representations and early neural language modeling.
+
 * **[Efficient Estimation of Word Representations in Vector Space (2013) by Mikolov et al.](./KeyPapers/Efficient_Estimation_of_Word_Representations_in_Vector_Space_2013.pdf)** ([External](https://arxiv.org/abs/1301.3781)) — Word2Vec; efficient word embeddings.
 * **[Attention Is All You Need (2017) by Vaswani et al.](./KeyPapers/Attention_Is_All_You_Need_2017.pdf)** ([External](https://arxiv.org/abs/1706.03762)) — Introduced the Transformer architecture.
 * **[BERT: Pre-training of Deep Bidirectional Transformers (2018) by Devlin et al.](./KeyPapers/BERT_2018.pdf)** ([External](https://arxiv.org/abs/1810.04805)) — Bidirectional pre-training for representation learning.
@@ -51,7 +69,7 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
 ## Recommended Reading Order
 
 1. Foundational concepts:
-   - [A Neural Probabilistic Language Model (2003) by Bengio et al.](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) ([local](./PDF/A_Neural_Probabilistic_Language_Model_2003.pdf))
+
    - [Efficient Estimation of Word Representations in Vector Space (2013) by Mikolov et al.](https://arxiv.org/abs/1301.3781) ([local](./PDF/Efficient_Estimation_of_Word_Representations_in_Vector_Space_2013.pdf))
 2. Transformer and variants:
    - [Attention Is All You Need (2017) by Vaswani et al.](https://arxiv.org/abs/1706.03762) ([local](./PDF/Attention_Is_All_You_Need_2017.pdf))
@@ -214,30 +232,89 @@ Before diving into the papers, check the "Recommended Reading Order" section at 
 
 # Part 6: AI Tools & Frameworks
 
-* **[Hugging Face Transformers Course](https://www.youtube.com/watch?v=9HFw1VxiK1g)**
-* **[TensorFlow 2.0 Complete Course — freeCodeCamp](https://www.youtube.com/watch?v=tPYj3fFJGjk)**
-* **[Scikit-learn Machine Learning Crash Course](https://www.youtube.com/watch?v=0Lt9w-BxKFQ)**
+
+## Recommended Reading Order
+
+1. **[Scikit-learn Machine Learning Crash Course](https://www.youtube.com/watch?v=0Lt9w-BxKFQ)** — Start with classic ML tools and workflows.
+2. **[TensorFlow 2.0 Complete Course — freeCodeCamp](https://www.youtube.com/watch?v=tPYj3fFJGjk)** — Learn a major deep learning framework.
+3. **[Hugging Face Transformers Course](https://www.youtube.com/watch?v=9HFw1VxiK1g)** — Move to state-of-the-art NLP and transformer models.
 
 ---
 
 # Part 7: Real-World AI Applications
 
-* **[How AI is Used in Healthcare](https://www.youtube.com/watch?v=7D1CQ_LOizA)**
-* **[Building a Chatbot with Transformers](https://www.youtube.com/watch?v=8Mpc9ukltVA)**
+
+## Recommended Reading Order
+
+1. **[How AI is Used in Healthcare](https://www.youtube.com/watch?v=7D1CQ_LOizA)** — See practical impact in a critical domain.
+2. **[Building a Chatbot with Transformers](https://www.youtube.com/watch?v=8Mpc9ukltVA)** — Apply modern models to real-world products.
 
 ---
 
 # Part 8: Capstone Projects & Challenges
 
-* **[Kaggle Titanic Competition Walkthrough](https://www.youtube.com/watch?v=8A7TgG7E2XI)**
-* **[How to Win a Kaggle Competition](https://www.youtube.com/watch?v=BH9FywlwKHo)**
-* **[Awesome Open Datasets for Machine Learning](https://github.com/awesomedata/awesome-public-datasets)**
+
+## Recommended Reading Order
+
+1. **[Kaggle Titanic Competition Walkthrough](https://www.youtube.com/watch?v=8A7TgG7E2XI)** — Start with a classic beginner project.
+2. **[How to Win a Kaggle Competition](https://www.youtube.com/watch?v=BH9FywlwKHo)** — Learn advanced competition strategies.
+3. **[Awesome Open Datasets for Machine Learning](https://github.com/awesomedata/awesome-public-datasets)** — Find datasets for your own projects.
 
 ---
 
 # Glossary
 
-A section for key AI/ML terms. (To be expanded)
+## Glossary
+
+**Artificial Intelligence (AI):** The field of creating systems that can perform tasks typically requiring human intelligence, such as reasoning, learning, and problem-solving.
+
+**Machine Learning (ML):** A subset of AI focused on algorithms that learn patterns from data to make predictions or decisions without being explicitly programmed.
+
+**Deep Learning:** A branch of ML using neural networks with many layers to model complex patterns in data.
+
+**Neural Network:** A computational model inspired by the human brain, consisting of interconnected nodes (neurons) that process information in layers.
+
+**Transformer:** A neural network architecture based on self-attention mechanisms, enabling efficient modeling of sequential data. Introduced in "Attention Is All You Need" (2017).
+
+**Attention Mechanism:** A technique allowing models to focus on relevant parts of input sequences when making predictions, crucial for transformers.
+
+**Word Embedding:** A representation of words as dense vectors in continuous space, capturing semantic relationships (e.g., Word2Vec, GloVe).
+
+**Pre-training:** Training a model on a large, generic dataset to learn general features before fine-tuning on a specific task.
+
+**Fine-tuning:** Adapting a pre-trained model to a specific task or dataset by continuing training on new data.
+
+**Large Language Model (LLM):** A neural network trained on vast text corpora to generate and understand human language (e.g., GPT, BERT, T5).
+
+**BERT:** Bidirectional Encoder Representations from Transformers; a transformer-based model pre-trained for language understanding tasks.
+
+**GPT:** Generative Pre-trained Transformer; a family of transformer-based models for text generation and understanding (e.g., GPT-2, GPT-3).
+
+**Few-shot Learning:** The ability of a model to generalize to new tasks given only a few examples.
+
+**RLHF (Reinforcement Learning from Human Feedback):** A training approach where models are optimized using feedback from human evaluators, often for alignment and safety.
+
+**LoRA (Low-Rank Adaptation):** A parameter-efficient fine-tuning method for large models, using low-rank updates to reduce resource requirements.
+
+**FlashAttention:** An efficient implementation of the attention mechanism that reduces memory usage and increases speed.
+
+**Chain-of-Thought Prompting:** A prompting technique that encourages models to reason step-by-step, improving performance on complex tasks.
+
+**Capstone Project:** A comprehensive, practical project that integrates and applies learned skills, often as a final challenge in a curriculum.
+
+**Dataset:** A collection of data used for training or evaluating machine learning models.
+
+**Tokenization:** The process of breaking text into smaller units (tokens), such as words or subwords, for model input.
+
+**Supervised Learning:** ML where models are trained on labeled data (input-output pairs).
+
+**Unsupervised Learning:** ML where models find patterns in unlabeled data.
+
+**Transfer Learning:** Leveraging knowledge from one task or dataset to improve performance on another, often via pre-training and fine-tuning.
+
+**Overfitting:** When a model learns noise or details specific to the training data, reducing its ability to generalize.
+
+**Underfitting:** When a model is too simple to capture underlying patterns in the data, resulting in poor performance.
 
 ---
 

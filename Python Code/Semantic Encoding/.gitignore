@@ -1,0 +1,4 @@
+# Ignore output folders for semantic encoding scripts
+csv/
+plot/
+git log --graph --oneline --all

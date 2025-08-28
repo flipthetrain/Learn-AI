@@ -1,0 +1,45 @@
+
+# Instructions for Using This File with an AI Agent
+
+This file contains a list of prompts designed to help you (or an AI agent) recreate, update, or maintain the `readme.md` file for the Learn-AI project. To use this file:
+
+1. Open this file in your editor or provide it as input to your AI assistant.
+2. For each prompt, copy and paste it into your AI agent or instruct the agent to execute the prompt as a task.
+3. Review the output or changes made by the agent to ensure accuracy and completeness.
+4. Use these prompts as a checklist for periodic maintenance, updates, or full regeneration of the README.
+
+You can also instruct the AI agent to run all prompts in this file sequentially to fully recreate or refresh the documentation.
+
+# Prompts for README.md Creation and Maintenance
+
+Below is a list of prompts that can be used to recreate, update, or maintain the `readme.md` file for the Learn-AI curriculum project. These prompts cover all major sections, navigation, content updates, and best practices for documentation.
+
+---
+
+1. **Create a curriculum README for an AI/LLM learning project. Include sections for foundational papers, key methods, surveys, tools, applications, ethics, mathematics, Python, capstone projects, glossary, and further reading.**
+
+2. **Add a navigation menu at the top with internal links to each major section.**
+
+3. **For each section, list key resources (papers, videos, datasets, etc.) with a short description and both local and external links where available.**
+
+4. **For each part (papers, videos, ethics, mathematics, Python, tools, applications, capstone), add a 'Recommended Reading Order' or 'Viewing Order' subsection that suggests a learning sequence.**
+
+5. **Ensure all external links are valid and remove or update any broken links.**
+
+6. **Use relative links for all local files and PDFs.**
+
+7. **Add a Glossary section with definitions for all key terms, models, and methods referenced in the document or linked resources.**
+
+8. **Keep the document up to date with new foundational papers, methods, and surveys as the field evolves.**
+
+9. **Organize capstone projects and challenges with links to datasets and walkthroughs.**
+
+10. **Add further reading and news resources at the end for ongoing learning.**
+
+11. **Maintain consistent formatting, section headers, and bullet styles throughout the document.**
+
+12. **Periodically review and update the recommended reading/viewing orders to reflect the latest best practices and resource quality.**
+
+---
+
+These prompts can be used as a checklist or as direct instructions for an AI assistant or human editor to (re)generate and maintain a high-quality, up-to-date README for the Learn-AI project.
